@@ -1,1 +1,2 @@
 Este es el contenido del Fichero 1
+En esta fase, se procede a la modificación del fichero para adaptarnos a los nuevos requerimientos
